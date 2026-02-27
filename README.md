@@ -1,4 +1,4 @@
-Survey Pro  | Python Qt Application
+# Survey Pro  | Python Qt Application
 
 **Курс:** Комп'ютерна інженерія  
 **Дисципліна:** Розробка інтерфейсів користувача
